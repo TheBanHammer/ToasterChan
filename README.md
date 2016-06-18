@@ -5,7 +5,7 @@ Command | Aliases | Description
 !autowoot | !rcs | Provides a link to the RCS extension
 !ba |  | Shows information about becoming a Brand Ambassador
 !commands |  | Links to this page
-!dc |  | Rejion the waitlist after disconnecting for up to 1 hour
+!dc |  | Rejoin the waitlist after disconnecting for up to 1 hour
 !emoji |  | Emoji Cheat Sheet
 !eta |  | Shows an estimated time for when you will reach the DJ booth
 !forum | !website | Links to the Nightcore-331 forums
