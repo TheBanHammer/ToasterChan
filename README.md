@@ -20,7 +20,7 @@ Command | Aliases | Description
 !kms |  | Forces the user to 'kill themself' (Kicks and re-promotes user).
 !link |  | Provides a link to the current song.
 !nightcore |  | Provides a link to an explaination of 'Nightcore'.
-!op |  | Provides a link to the blacklist.
+!op | !blacklist | Provides a link to the blacklist.
 !opcheck |  | Checks if the current is OP (Bouncers+ can also check specific songs).
 !pet |  | Pets a user.
 !rjoin |  | Joins a roulette if active.
