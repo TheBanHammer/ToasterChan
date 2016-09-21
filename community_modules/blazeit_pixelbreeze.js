@@ -6,7 +6,7 @@ function BlazeItResponse(module, bot) {
 	this.bot = bot;
 	this.module.SetName('420 Blaze It');
 	this.module.RegisterEvent('chat', function(data) {
-		if (data.message.toLowerCase().indexOf('4:20') == 0 || data.message.toLowerCase().indexOf('420')) {
+		if (data.message.toLowerCase().indexOf('4:20') == 0 || data.message.toLowerCase().indexOf('420') == 0) {
 			// that.bot is the bot commands from plugCubed/PlugAPI.
 			/* that.module = {
 				ModuleName: '', (string, the name of the module)
