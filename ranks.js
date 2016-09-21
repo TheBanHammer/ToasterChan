@@ -7,5 +7,5 @@ module.exports = {
 	Host:5,
 	BA:6,
 	Admin:7,
-	BotCreator:8
+	BotAdmin:8
 };
