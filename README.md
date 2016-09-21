@@ -1,9 +1,12 @@
 # ToasterChan
 
+If you would like to provide a module for Toaster please [checkout the example module](https://github.com/TheBanHammer/ToasterChan/blob/master/community_modules/example_module.js) and once you have made it you can simply send a pull request to add your module to the 'community_modules' folder.
+
 ## Users
 
 Command | Aliases | Description
 --- | --- | ---
+!afk |  | Sets you as AFK in the room.
 !auth |  | Authenticates your Plug/Discord account with the Nightcore-331 forums (Coming soon/WIP).
 !autowoot | !rcs | Provides a link to the RCS extension.
 !ba |  | Shows information about becoming a Brand Ambassador.
@@ -39,6 +42,7 @@ Command | Aliases | Description
 !ping |  | Pong!
 !plug |  | Provides information on Plug's return.
 !rdj |  | Provides information on how to apply for ResDJ.
+!staff |  | Pings the last 3 active Bouncers+ for help.
 !shush |  | Tells the user to stop asking for mehs.
 !urban |  | Looks up a specified or random word/phrase from the Urban Dictionary.
 
@@ -88,7 +92,9 @@ Command | Aliases | Description
 !rbl | !removeblacklist | Removes a song from the blacklist.
 !reload |  | Forces a full restart of the bot.
 !resetroulette |  | Resets the roulette settings.
+!roomstats |  | Prints out stats for the room.
 !roulette |  | Starts a roulette.
+!s |  | Changes settings in the bot.
 !savesettings |  | Forces the bot to save its current settings to disk.
 !say |  | Send a message as the bot. WARNING this is restricted to discord only!
 !startevent |  | Starts an event with a specific user as the DJ. Turns on DJ Cycle and locks down the waitlist.
@@ -100,4 +106,6 @@ Command | Aliases | Description
 
 Command | Aliases | Description
 --- | --- | ---
+!heroesneverdie |  | Revives the room chat.
+!highnoon |  | Kills all chat in the room.
 !rig |  | Rigs a roulette for a specific user.
