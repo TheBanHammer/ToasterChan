@@ -21,6 +21,7 @@ Command | Aliases | Description
 !hug |  | Hugs a user.
 !kill |  | Bot responds with 'no thanks m8'.
 !kms |  | Forces the user to 'kill themself' (Kicks and re-promotes user).
+!lastplayed |  | Shows the stats from the last time hte song was played.
 !link |  | Provides a link to the current song.
 !nightcore |  | Provides a link to an explaination of 'Nightcore'.
 !op | !blacklist | Provides a link to the blacklist.
