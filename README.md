@@ -6,6 +6,7 @@ If you would like to provide a module for Toaster please [checkout the example m
 
 Command | Aliases | Description
 --- | --- | ---
+!accept |  | Accept a request to swap positions.
 !afk |  | Sets you as AFK in the room.
 !auth |  | Authenticates your Plug/Discord account with the Nightcore-331 forums (Coming soon/WIP).
 !autowoot | !rcs | Provides a link to the RCS extension.
@@ -17,6 +18,7 @@ Command | Aliases | Description
 !emoji |  | Emoji Cheat Sheet.
 !eta |  | Shows an estimated time for when you will reach the DJ booth.
 !forum | !website | Links to the Nightcore-331 forums.
+!giftpos |  | Gift your waitlist position to someone else.
 !help |  | Shows some basic help info for Plug.
 !hug |  | Hugs a user.
 !kill |  | Bot responds with 'no thanks m8'.
