@@ -38,9 +38,9 @@ Command | Aliases | Description
 
 Command | Aliases | Description
 --- | --- | ---
+!blocked |  | Provides a link to [Polsy's Youtube Restriction Checker](https://polsy.org.uk/stuff/ytrestrict.cgi)
 !bouncer |  | Provides information on how to apply for Bouncer.
 !mehrule |  | Prints the mehrule information.
-!mikhan |  | Fun command.
 !picture |  | Provides a link to the current video's thumbnail.
 !ping |  | Pong!
 !plug |  | Provides information on Plug's return.
