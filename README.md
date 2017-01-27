@@ -12,6 +12,7 @@ Command | Aliases | Description
 !autowoot | !rcs | Provides a link to the RCS extension.
 !ba |  | Shows information about becoming a Brand Ambassador.
 !blcheck |  | Checks if a specific song is on the blacklist.
+!boop |  | Boop a user.
 !commands |  | Links to this page.
 !dc |  | Rejoin the waitlist after disconnecting for up to 1 hour.
 !discord |  | Provides a link to the NC-331 Discord Server.
@@ -58,7 +59,7 @@ Command | Aliases | Description
 !ban |  | Kicks and re-promotes the user who runs the command.
 !bl |  | Blacklists the current song.
 !discordreload |  | Forces the Discord bot to reload.
-!jointime |  | Logs the amount of time since the user joined the room.
+!jointime |  | Logs the amount of time since the user joined the room (this session only).
 !ls |  | Skips the current song whilst also moving the user to position 5 in the waitlist.
 !lock |  | Locks the waitlist.
 !lockdown |  | Deletes all chat messages for users below Bouncer rank.
@@ -71,6 +72,7 @@ Command | Aliases | Description
 !skip |  | Skips the current song.
 !stats |  | Logs the stats of a user.
 !swap |  | Swaps two users positions.
+!totaltime |  | Logs the sum of all user sessions in the room.
 !unlock |  | Unlocks the waitlist.
 
 ##Managers
@@ -90,7 +92,8 @@ Command | Aliases | Description
 !dclimit |  | Adjusts the length of the DC limit in minutes.
 !endevent |  | Ends the event. Re-opening the waitlist and disabling DJ Cycle.
 !kick |  | Kicks the user and re-promotes them (if they were staff already).
-!mbl | !manualblacklist | Manually adds a song from the blacklist.
+!mbl | !manualblacklist | Manually adds a song to the blacklist.
+!mblsc |  | Manually adds a soundcloud song to the blacklist.
 !pp |  | Logs the bots current Plug Points.
 !rbl | !removeblacklist | Removes a song from the blacklist.
 !reload |  | Forces a full restart of the bot.
@@ -109,6 +112,7 @@ Command | Aliases | Description
 
 Command | Aliases | Description
 --- | --- | ---
+!bbq |  | Starts a barbecue for the room.
 !heroesneverdie |  | Revives the room chat.
 !highnoon |  | Kills all chat in the room.
 !rig |  | Rigs a roulette for a specific user.
