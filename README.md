@@ -34,6 +34,7 @@ Command | Aliases | Description
 !rule1-100 |  | Logs a rule from the list of rules for the internet. I.e. `!rule46` will give the response `The cake is a lie.`
 !rules |  | Provides a link to the room rules.
 !theme | !genre | Links to a forum post explaining the theme of the room.
+!xp |  | Provides information on how to earn XP in Plug.
 
 ## ResDJs
 
