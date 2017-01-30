@@ -47,6 +47,7 @@ Command | Aliases | Description
 !ping |  | Pong!
 !plug |  | Provides information on Plug's return.
 !rdj |  | Provides information on how to apply for ResDJ.
+!setbadge |  | Set your badge (rcs theme only) to the url provided.
 !staff |  | Pings the last 3 active Bouncers+ for help.
 !shush |  | Tells the user to stop asking for mehs.
 !urban |  | Looks up a specified or random word/phrase from the Urban Dictionary.
