@@ -12,7 +12,6 @@ Command | Aliases | Description
 !autowoot | !rcs | Provides a link to the RCS extension.
 !ba |  | Shows information about becoming a Brand Ambassador.
 !blcheck |  | Checks if a specific song is on the blacklist.
-!boop |  | Boop a user.
 !commands |  | Links to this page.
 !dc |  | Rejoin the waitlist after disconnecting for up to 1 hour.
 !discord |  | Provides a link to the NC-331 Discord Server.
