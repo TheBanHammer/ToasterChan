@@ -30,7 +30,6 @@ Command | Aliases | Description
 !opcheck |  | Checks if the current is OP (Bouncers+ can also check specific songs).
 !pet |  | Pets a user.
 !rjoin |  | Joins a roulette if active.
-!rule1-100 |  | Logs a rule from the list of rules for the internet. I.e. `!rule46` will give the response `The cake is a lie.`
 !rules |  | Provides a link to the room rules.
 !theme | !genre | Links to a forum post explaining the theme of the room.
 !xp |  | Provides information on how to earn XP in Plug.
@@ -94,6 +93,7 @@ Command | Aliases | Description
 !endevent |  | Ends the event. Re-opening the waitlist and disabling DJ Cycle.
 !kick |  | Kicks the user and re-promotes them (if they were staff already).
 !mbl | !manualblacklist | Manually adds a song to the blacklist.
+!mblo |  | Manually adds a song to the blacklist overriding warnings.
 !mblsc |  | Manually adds a soundcloud song to the blacklist.
 !pp |  | Logs the bots current Plug Points.
 !rbl | !removeblacklist | Removes a song from the blacklist.
