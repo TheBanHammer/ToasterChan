@@ -10,14 +10,16 @@ Command | Aliases | Description
 !afk |  | Sets you as AFK in the room.
 !auth |  | Authenticates your Plug/Discord account with the Nightcore-331 forums (Coming soon/WIP).
 !autowoot | !rcs | Provides a link to the RCS extension.
+!avatar |  | Explanation of the custom avatar.
 !ba |  | Shows information about becoming a Brand Ambassador.
 !blcheck |  | Checks if a specific song is on the blacklist.
 !commands |  | Links to this page.
 !dc |  | Rejoin the waitlist after disconnecting for up to 1 hour.
 !discord |  | Provides a link to the NC-331 Discord Server.
+!diy |  | Provides a link to a document containing information on how to setup a community.
 !emoji |  | Emoji Cheat Sheet.
 !eta |  | Shows an estimated time for when you will reach the DJ booth.
-!forum | !website | Links to the Nightcore-331 forums.
+!forum | !website | Links to the Nightcore-331 website.
 !giftpos |  | Gift your waitlist position to someone else.
 !help |  | Shows some basic help info for Plug.
 !hug |  | Hugs a user.
@@ -31,6 +33,7 @@ Command | Aliases | Description
 !pet |  | Pets a user.
 !rjoin |  | Joins a roulette if active.
 !rules |  | Provides a link to the room rules.
+!social |  | Provides links to all of Nightcore-331's social media profiles.
 !theme | !genre | Links to a forum post explaining the theme of the room.
 !xp |  | Provides information on how to earn XP in Plug.
 
