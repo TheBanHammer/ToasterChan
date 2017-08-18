@@ -20,6 +20,7 @@ Command | Aliases | Description
 !emoji |  | Emoji Cheat Sheet.
 !eta |  | Shows an estimated time for when you will reach the DJ booth.
 !forum | !website | Links to the Nightcore-331 website.
+!gaming |  | Links to the Nightcore-331 Gaming Discord
 !giftpos |  | Gift your waitlist position to someone else.
 !help |  | Shows some basic help info for Plug.
 !hug |  | Hugs a user.
