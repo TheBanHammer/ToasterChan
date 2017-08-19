@@ -54,7 +54,7 @@ Command | Aliases | Description
 !shush |  | Tells the user to stop asking for mehs.
 !urban |  | Looks up a specified or random word/phrase from the Urban Dictionary.
 
-##Bouncers
+## Bouncers
 
 Command | Aliases | Description
 --- | --- | ---
@@ -79,7 +79,7 @@ Command | Aliases | Description
 !totaltime |  | Logs the sum of all user sessions in the room.
 !unlock |  | Unlocks the waitlist.
 
-##Managers
+## Managers
 
 Command | Aliases | Description
 --- | --- | ---
@@ -113,7 +113,7 @@ Command | Aliases | Description
 !wllimit |  | Adjusts how long the bot thinks the max waitlist is. Mainly used for testing new features.
 !wlcount |  | Logs how many people the bot can see in the waitlist. Useful for checking for ghost users.
 
-##Hosts
+## Hosts
 
 Command | Aliases | Description
 --- | --- | ---
