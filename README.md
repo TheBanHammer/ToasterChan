@@ -19,6 +19,7 @@ Command | Aliases | Description
 !diy |  | Provides a link to a document containing information on how to setup a community.
 !emoji |  | Emoji Cheat Sheet.
 !eta |  | Shows an estimated time for when you will reach the DJ booth.
+!event |  | Describes the current or planned event.
 !forum | !website | Links to the Nightcore-331 website.
 !gaming |  | Links to the Nightcore-331 Gaming Discord
 !giftpos |  | Gift your waitlist position to someone else.
@@ -44,6 +45,7 @@ Command | Aliases | Description
 --- | --- | ---
 !blocked |  | Provides a link to [Polsy's Youtube Restriction Checker](https://polsy.org.uk/stuff/ytrestrict.cgi)
 !bouncer |  | Provides information on how to apply for Bouncer.
+!map |  | Provides a map of the staff locations.
 !mehrule |  | Prints the mehrule information.
 !picture |  | Provides a link to the current video's thumbnail.
 !ping |  | Pong!
