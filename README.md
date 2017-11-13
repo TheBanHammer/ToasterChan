@@ -8,7 +8,6 @@ Command | Aliases | Description
 --- | --- | ---
 !accept |  | Accept a request to swap positions.
 !afk |  | Sets you as AFK in the room.
-!auth |  | Authenticates your Plug/Discord account with the Nightcore-331 forums (Coming soon/WIP).
 !autowoot | !rcs | Provides a link to the RCS extension.
 !avatar |  | Explanation of the custom avatar.
 !ba |  | Shows information about becoming a Brand Ambassador.
@@ -62,14 +61,12 @@ Command | Aliases | Description
 --- | --- | ---
 !active |  | Logs stats of how many users have been active within a period or how long since a user was last active.
 !add |  | Add user to the waitlist.
-!ban |  | Kicks and re-promotes the user who runs the command.
 !bl |  | Blacklists the current song.
 !discordreload |  | Forces the Discord bot to reload.
 !jointime |  | Logs the amount of time since the user joined the room (this session only).
 !ls |  | Skips the current song whilst also moving the user to position 5 in the waitlist.
 !lock |  | Locks the waitlist.
 !lockdown |  | Deletes all chat messages for users below Bouncer rank.
-!lotto |  | Take your chance and gamble 100 Nightcore Credits for the chance to be moved up the waitlist.
 !maxlength |  | Adjusts the max song length in minutes.
 !move |  | Moves a user to a speicifc position in the waitlist (will also add the user if they aren't in the waitlist).
 !nc |  | Checks a users Nightcore Credits.
@@ -119,7 +116,6 @@ Command | Aliases | Description
 
 Command | Aliases | Description
 --- | --- | ---
-!bbq |  | Starts a barbecue for the room.
 !heroesneverdie |  | Revives the room chat.
 !highnoon |  | Kills all chat in the room.
 !rig |  | Rigs a roulette for a specific user.
