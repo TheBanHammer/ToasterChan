@@ -94,6 +94,7 @@ Command | Aliases | Description
 !clearqueue |  | Clears the waitlist queue.
 !dclimit |  | Adjusts the length of the DC limit in minutes.
 !endevent |  | Ends the event. Re-opening the waitlist and disabling DJ Cycle.
+!hardreload |  | WARNING! Only use this as a last resort. This clears ALL bot caches and restarts.
 !kick |  | Kicks the user and re-promotes them (if they were staff already).
 !mbl | !manualblacklist | Manually adds a song to the blacklist.
 !mblo |  | Manually adds a song to the blacklist overriding warnings.
